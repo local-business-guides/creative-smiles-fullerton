@@ -32,6 +32,9 @@
 - [Dental clinic Fullerton for everyday dental needs](https://local-business-guides.github.io/creative-smiles-fullerton/dental-clinic-fullerton/): Find a dental clinic in Fullerton for preventive, cosmetic and restorative care. Call Creative Smiles to discuss your needs and plan a visit with us.
 - [Dental implants periodontist Fullerton care questions](https://local-business-guides.github.io/creative-smiles-fullerton/dental-implants-periodontist-fullerton/): Considering dental implants in Fullerton? Review replacement options and questions to ask at Creative Smiles. Call to discuss a consultation with our team.
 
+## Newsroom
+- [Creative Smiles Shares Fullerton Dentist Guide Across Several Channels](https://local-business-guides.github.io/creative-smiles-fullerton/news/2026-11-04-creative-smiles-shares-fullerton-dentist-guide/): Creative Smiles has published a guide to dentist services and treatment options, with related versions on YouTube, as a podcast and on SoundCloud. (2026-11-04)
+
 ## Pages
 - [Fullerton Dentist in California](https://local-business-guides.github.io/creative-smiles-fullerton/): Get care for your smile in Fullerton, with restorative, cosmetic, and general dental services at Creative Smiles. Call +1714-701-6200.
 - [About Creative Smiles in Fullerton](https://local-business-guides.github.io/creative-smiles-fullerton/about/): About Creative Smiles, Fullerton.
@@ -39,3 +42,4 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/creative-smiles-fullerton/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/creative-smiles-fullerton/news/rss.xml)
